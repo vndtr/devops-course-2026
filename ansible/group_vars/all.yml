@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/vndtr/devops-ci-app"
+app_tag: "65f0f986f6ece9547bfb35b9d30857a538029979"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
